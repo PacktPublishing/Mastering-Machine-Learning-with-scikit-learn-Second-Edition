@@ -29,5 +29,3 @@ The examples in this book require Python >= 2.7 or >= 3.3 and pip, the PyPA reco
 
 * [Data Science and Machine Learning with Python - Hands On!](https://www.packtpub.com/big-data-and-business-intelligence/data-science-and-machine-learning-python-hands?utm_source=github&utm_medium=repository&utm_campaign=9781787280748)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
